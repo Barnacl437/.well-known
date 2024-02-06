@@ -1,0 +1,2 @@
+# .well-known
+connection test
