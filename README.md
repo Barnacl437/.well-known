@@ -1,5 +1,5 @@
 # .well-known
-A simple method to let Discord connects to your domain in profile connections and recognise your ownership to it, also showing on your profile.
+A simple method to let Discord connects to your GitHub Pages domain in profile connections and recognise your ownership to it, also showing on your profile.
 Fork this repo and let the name _intact_, replace the content in ```.discord``` file to your own content and enable GitHub Pages in repo settings as below:
 
 ![image](https://github.com/Barnacl437/.well-known/assets/87983017/b1480032-577d-4f0d-8f72-a0c09efed162)
