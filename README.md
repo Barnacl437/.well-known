@@ -1,6 +1,6 @@
 # .well-known
 A simple method to let Discord connects to your domain and recognise your ownership to it.
-Fork this repo and let the name contact, replace the content in ```.discord``` file to your own content and enable GitHub Pages in repo settings as below:
+Fork this repo and let the name _intact_, replace the content in ```.discord``` file to your own content and enable GitHub Pages in repo settings as below:
 
 ![image](https://github.com/Barnacl437/.well-known/assets/87983017/b1480032-577d-4f0d-8f72-a0c09efed162)
 
