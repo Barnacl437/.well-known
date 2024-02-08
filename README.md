@@ -13,7 +13,7 @@ Thanks [oyepriyansh] for this trick. Visit their repo [here](https://github.com/
 Perhaps it also works for custom domain linking in GitHub Pages I guess. 
 DNS method (_may_) sounds unable to do, but I have not tested.
 
-P/S: [Bluesky](https://bsky.app) custom handle works too.  Just put the verification file with content into a specified file in user settings.
+P/S: For [Bluesky](https://bsky.app) users, custom handle works too!  Just put the verification file with content into a specified path (```/.well-known/atproto-did```) in user settings.
 
 ![image](https://github.com/Barnacl437/.well-known/assets/87983017/1db658ed-5ed2-4ed5-a367-28871209e2a4)
 
