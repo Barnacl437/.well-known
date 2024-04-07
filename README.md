@@ -8,6 +8,8 @@ You can find your verification (.discord) content here when connecting domain in
 
 ![image](https://github.com/Barnacl437/.well-known/assets/87983017/e96c25e1-d5ac-4a87-b62f-251ab71d5519)
 
+Once the DNS check is complete successfully, enjoy your ownership proof! lel
+
 Thanks [oyepriyansh] for this trick. Visit their repo [here](https://github.com/oyepriyansh/.well-known).
 
 Perhaps it also works for custom domain linking in GitHub Pages I guess. 
